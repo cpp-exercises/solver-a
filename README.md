@@ -1,2 +1,21 @@
-# solver-a
-Write classes for solving equations
+<div dir="rtl" lang="he">
+
+# פותר משוואות - שלב א
+
+כתבו מערכת הפותרת משוואות.
+
+כדי לראות איך המערכת אמורה לעבוד, ראו בקובץ
+Demo.cpp
+המצורף.
+
+בשלב א עליכם לכתוב את הקבצים הדרושים כך שהפקודות הבאות יעבדו ללא שגיאות קימפול:
+
+<div dir='ltr'>
+
+    make demo && ./demo
+	make test && ./test
+
+</div>
+
+
+</div>
