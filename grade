@@ -1,6 +1,6 @@
 #!/bin/bash
 source grade_utils
-printf "\n\n### Grade FamilyTree Part A ###\n"
+printf "\n\n### Grade Solver Part A ###\n"
 make -f Makefile clean
 
 i=0
