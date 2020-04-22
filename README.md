@@ -10,7 +10,7 @@
 
 <div dir='ltr'>
 
-    solve(2*x-4=10);
+    solve(2*x-4==10);
 
 </div>
 
